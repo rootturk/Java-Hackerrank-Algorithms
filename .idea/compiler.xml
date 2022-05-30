@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Hackerrank-Java-Series" />
+        <module name="Java-Hackerrank-Algorithms" />
       </profile>
     </annotationProcessing>
   </component>
